@@ -44,7 +44,7 @@ header > h1 {
 #userBadge{
     position: relative;
     top: 25px;
-    left: 150px;
+    left: -45px;
     width:  50px;
 }
 
