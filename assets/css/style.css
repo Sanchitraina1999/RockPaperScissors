@@ -104,13 +104,13 @@ header>h1 {
 footer{
     box-sizing: content-box;
     border: 2px solid red;
-    margin-top: 250px;
+    width
+    margin-top: 225px;
     transition: all 0.3s ease-in-out;
 }
 
 footer:hover{
     background:greenyellow;
-    padding: 30px;
 }
 
 footer > p{
