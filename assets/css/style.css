@@ -38,10 +38,11 @@ header > h1 {
     font-size: 14px;
     padding: 2px 10px;
     font-family: Fredoka One,sans-serif;
+    position: relative;
 }
 
 #userBadge{
-    position: relative;;
+    position: absolute;
 }
 
 
