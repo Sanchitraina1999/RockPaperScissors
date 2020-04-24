@@ -74,7 +74,8 @@ header>h1 {
 
 .choice{
     display: inline-block;
-    border-
+    border: 1px solid white;
+    border-radius: 50%;
 }
 
 
