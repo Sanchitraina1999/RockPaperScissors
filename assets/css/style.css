@@ -10,7 +10,8 @@ body{
 }
 
 header{
-    background-color: rgb(233, 17, 17);
+    background: white;
+    pading: 20px
 }
 
 header > h1 {
