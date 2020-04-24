@@ -68,7 +68,7 @@ header>h1 {
 }
 
 .choices{
-    margin: 50px 0px;
+    margin: 50px;
     text-align: center;
 }
 
@@ -92,8 +92,8 @@ header>h1 {
 }
 
 .lastMessage{
-    font-sze:20px;
-    font-al
+    font-size:20px;
+    text-align:center
 }
 
 
