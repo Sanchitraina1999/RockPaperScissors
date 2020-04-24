@@ -43,8 +43,13 @@ header > h1 {
 
 #userBadge{
     position: absolute;
-    top: 100px;
+    top: 140px;
     left: 350px;
+}
+
+#botBadge{
+    position: relative;
+    
 }
 
 
