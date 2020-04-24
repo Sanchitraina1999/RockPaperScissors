@@ -43,7 +43,8 @@ header > h1 {
 
 #userBadge{
     position: absolute;
-    top: 50px;
+    top: 100px;
+    left: 23px;
 }
 
 
