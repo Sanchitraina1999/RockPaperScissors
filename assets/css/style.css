@@ -91,10 +91,13 @@ header>h1 {
     background:rgb(82, 251, 31);
 }
 
-.lastMessage{
+#lastMessage{
     font-size:20px;
-    text-align:center
+    text-align:center;
     margin-top:10px;
+    font-weight: bold;
+
+    font-family: Fredoka One, sans-serif;
 }
 
 
