@@ -73,16 +73,15 @@ header>h1 {
 }
 
 .choice{
-    width: 2px;
-    height: 2px;
     display: inline-block;
-    border: 1px solid white;
+    border: 3px solid white;
     padding: 5px;
     border-radius: 50%;
 }
 
 .choice > img{
-    
+    width: 20px;
+    height: 20px;
 }
 
 
