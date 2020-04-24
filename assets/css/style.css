@@ -95,10 +95,10 @@ header>h1 {
 #lastMessage {
     font-size: 45px;
     text-align: center;
-    margin-top: 10px;
+    margin-top: 15px;
     font-weight: bold;
     font-family: Fredoka One, sans-serif;
-    color: rgb(29, 245, 234);
+    color: #1df5ea;
 }
 
 footer{
@@ -107,7 +107,7 @@ footer{
     margin: auto;
     width:50%;
     margin-top: 225px;
-    padding: 10
+    padding: 10px;
     transition: all 0.3s ease-in-out;
 }
 
