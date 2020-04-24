@@ -111,6 +111,10 @@ footer {
     transition: all 0.3s ease-in-out;
 }
 
+footer>p>a{
+    text-decoration: none;
+}
+
 footer:hover {
     background: greenyellow;
     border: 2px solid red;
