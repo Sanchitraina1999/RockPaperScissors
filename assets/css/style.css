@@ -55,3 +55,9 @@ header>h1 {
     left: 150px;
     width: 50px;
 }
+
+.result{
+    font-size:40px;
+    color: white;
+    text-align: center;
+}
