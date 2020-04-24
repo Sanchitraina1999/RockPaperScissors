@@ -75,14 +75,14 @@ header>h1 {
 .choice{
     display: inline-block;
     border: 3px solid white;
-    padding: 5px;
+    padding: 50px;
     border-radius: 50%;
     margin:30px;
 }
 
 .choice > img{
-    width: 200px;
-    height: 250px;
+    width: 100px;
+    height: 100px;
 }
 
 
