@@ -30,3 +30,7 @@ header > h1 {
     padding: 15px 20px;
     font-family: Fredoka One,sans-serif;
 }
+
+.badge{
+    background:red;
+}
