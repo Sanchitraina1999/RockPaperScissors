@@ -45,14 +45,14 @@ header > h1 {
     position: absolute;
     top: 140px;
     left: 350px;
-    width
+    width:  50%;
 }
 
 #botBadge{
     position: relative;
     top: 25px;
     left:150px;
-    width: 40%;
+    width: 50px;
 }
 
 
