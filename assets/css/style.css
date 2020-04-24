@@ -70,7 +70,6 @@ header>h1 {
 .choices{
     margin: 50px 0px;
     text-align: center;
-    paddin
 }
 
 .choice{
@@ -78,10 +77,11 @@ header>h1 {
     border: 3px solid white;
     padding: 5px;
     border-radius: 50%;
+    margin:30px;
 }
 
 .choice > img{
-    width: 250px;
+    width: 200px;
     height: 250px;
 }
 
