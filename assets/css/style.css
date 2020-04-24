@@ -57,65 +57,44 @@ header>h1 {
     width: 50px;
 }
 
-.result{
-    font-size:40px;
+.result {
+    font-size: 40px;
     color: white;
 }
 
-.result > p{
+.result>p {
     text-align: center;
     font-weight: bold;
 }
 
-.choices{
+.choices {
     margin-top: 50px;
     text-align: center;
 }
 
-.choice{
+.choice {
     display: inline-block;
     border: 3px solid white;
     padding: 50px;
     border-radius: 50%;
-    margin:30px;
+    margin: 30px;
     transition: all 0.3s ease-in;
 }
 
-.choice > img{
+.choice>img {
     width: 100px;
     height: 100px;
 }
 
-.choice:hover{
+.choice:hover {
     cursor: pointer;
-    background:rgb(82, 251, 31);
+    background: #52fb1f;
 }
 
-#lastMessage{
-    font-size:20px;
-    text-align:center;
-    margin-top:10px;
+#lastMessage {
+    font-size:  px;
+    text-align: center;
+    margin-top: 10px;
     font-weight: bold;
-
     font-family: Fredoka One, sans-serif;
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
