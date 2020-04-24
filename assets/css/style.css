@@ -78,6 +78,7 @@ header>h1 {
     padding: 50px;
     border-radius: 50%;
     margin:30px;
+    transition: all 1s 
 }
 
 .choice > img{
