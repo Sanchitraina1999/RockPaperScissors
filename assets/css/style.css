@@ -42,10 +42,10 @@ header > h1 {
 }
 
 #userBadge{
-    position: absolute;
-    top: 140px;
-    left: 350px;
-    width:  50%;
+    position: relative;
+    top: 25px;
+    left: 150px;
+    width:  50px;
 }
 
 #botBadge{
