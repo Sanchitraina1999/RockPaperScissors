@@ -67,6 +67,11 @@ header>h1 {
     font-weight: bold;
 }
 
+.choices{
+    margin: 2
+    text-align: center;
+}
+
 .choice{
     display: inline-block;
 }
