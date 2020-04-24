@@ -105,9 +105,13 @@ footer{
     box-sizing: border-box;
     border: 2px solid red;
     margin: 250px;
+    transition: al
 }
 
-footer:
+footer:hover{
+    background:greenyellow;
+    padding:
+}
 
 footer > p{
     text-align: center;
