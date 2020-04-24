@@ -82,8 +82,8 @@ header>h1 {
 }
 
 .choice>img {
-    width: 100px;
-    height: 100px;
+    width: auto;
+    height: auto;
 }
 
 .choice:hover {
