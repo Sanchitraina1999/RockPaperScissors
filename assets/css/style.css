@@ -23,6 +23,9 @@ header > h1 {
 .scoreBoard {
     margin: 20px auto;
     border: 3px solid white;
+    border-radius: 4%;
     width: 200px;
     color: white;
+    font-size: 40px;
+    
 }
