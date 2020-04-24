@@ -102,9 +102,8 @@ header>h1 {
 }
 
 footer{
-    box-sizing: border-box;
+    box-sizing: content-box;
     border: 2px solid red;
-    border-radius: ;
     margin-top: 250px;
     transition: all 0.3s ease-in-out;
 }
