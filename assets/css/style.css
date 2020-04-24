@@ -112,7 +112,7 @@ footer {
     transition: all 0.3s ease-in-out;
 }
 
-footer>p>a{
+footer>p>a {
     text-decoration: none;
 }
 
