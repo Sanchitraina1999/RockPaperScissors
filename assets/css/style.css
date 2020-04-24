@@ -113,7 +113,8 @@ footer{
 
 footer:hover{
     background:greenyellow;
-    font-wei:bold;
+    font-weight:bold;
+    width:75%;
 }
 
 footer > p{
