@@ -101,4 +101,7 @@ header>h1 {
     color: rgb(29, 245, 234);
 }
 
-fo
+footer{
+    text-align: center;
+    margin: 20px;
+}
