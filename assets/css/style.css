@@ -103,5 +103,6 @@ header>h1 {
 
 footer{
     text-align: center;
-    margin: 20px;
+    margin: 250px;
+    text-decoration: none;
 }
