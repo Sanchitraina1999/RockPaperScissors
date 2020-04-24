@@ -6,16 +6,16 @@
 }
 
 header{
-    background: #3b3e4b;
+    background: white;
 }
 
 header > h1 {
-    background:white;
+    background:#3b3e4b;
     text-align: center;
     font-family: Fredoka One,sans-serif;
 }
 
-.scoreBoard{
+.scoreBoard {
     border: 3px solid white;
     width: 200px;
 }
