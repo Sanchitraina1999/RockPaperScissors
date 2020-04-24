@@ -10,10 +10,10 @@ body{
 }
 
 header{
-    background: white;
+    background-color: rgb(233, 17, 17);
 }
 
-header h1 {
+header > h1 {
     background:#3b3e4b;
     text-align: center;
     font-family: Fredoka One,sans-serif;
