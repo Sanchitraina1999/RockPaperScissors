@@ -103,11 +103,13 @@ header>h1 {
 
 footer{
     box-sizing: border-box;
-    border: 3px solid red;
+    border: 2px solid red;
+    margin: 250px;
 }
+
+footer:
 
 footer > p{
     text-align: center;
-    margin: 250px;
     text-decoration: none;
 }
