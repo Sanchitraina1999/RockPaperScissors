@@ -104,7 +104,8 @@ header>h1 {
 footer{
     box-sizing: border-box;
     border: 2px solid red;
-    margin: 250px;
+    border-width: 5%;
+    margin-top: 250px;
     transition: all 0.3s ease-in-out;
 }
 
