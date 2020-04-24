@@ -30,6 +30,7 @@ header>h1 {
     font-size: 40px;
     padding: 15px 20px;
     font-family: Fredoka One, sans-serif;
+    font-weight: normal;
     text-align: center;
 }
 
@@ -63,5 +64,5 @@ header>h1 {
 
 .result > p{
     text-align: center;
-    font-weight: ligjter;
+    font-weight: bold;
 }
