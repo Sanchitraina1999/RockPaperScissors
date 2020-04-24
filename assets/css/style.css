@@ -105,12 +105,12 @@ footer{
     box-sizing: border-box;
     border: 2px solid red;
     margin: 250px;
-    transition: al
+    transition: all 0.3s ease-in-out;
 }
 
 footer:hover{
     background:greenyellow;
-    padding:
+    padding: 30px;
 }
 
 footer > p{
