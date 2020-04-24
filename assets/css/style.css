@@ -16,5 +16,6 @@ header>h1{
 }
 
 .scoreBoard{
-    border: 1px solid white;
+    border: 3px solid white;
+    width: 200px;
 }
