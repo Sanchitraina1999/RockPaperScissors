@@ -113,7 +113,7 @@ footer{
 
 footer:hover{
     background:greenyellow;
-    
+    text-shadow:5px;
 }
 
 footer > p{
