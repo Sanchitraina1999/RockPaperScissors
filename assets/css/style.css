@@ -6,11 +6,11 @@
 }
 
 header{
-    background: white;
+    background: #3b3e4b;
 }
 
-header  h1 {
-    background:#3b3e4b;
+header > h1 {
+    background:white;
     text-align: center;
     font-family: Fredoka One,sans-serif;
 }
