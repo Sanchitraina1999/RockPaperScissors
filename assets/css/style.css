@@ -6,12 +6,12 @@
 }
 
 body{
-    background-color: #3b3e4b;
+    background: #3b3e4b;
 }
 
 header{
     background: white;
-    padding: 20px
+    padding: 20px;
 }
 
 header > h1 {
