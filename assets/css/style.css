@@ -102,6 +102,10 @@ header>h1 {
 }
 
 footer{
+    
+}
+
+footer > p{
     text-align: center;
     margin: 250px;
     text-decoration: none;
