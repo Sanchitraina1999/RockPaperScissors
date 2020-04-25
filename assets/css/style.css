@@ -83,11 +83,11 @@ header>h1 {
     transition: all 0.3s ease-in;
 }
 
-/* .choice>img {
+ .choice>img {
     width: 100px;
     height: 100px;
     border-radius: 50px;
-} */
+}
 
 .choice:hover {
     cursor: pointer;
