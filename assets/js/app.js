@@ -11,5 +11,15 @@ const scissors_div = document.getElementById("scissors");
 
 rock_div.addEventListener('click',function(){
     console.log("clicked");
-)
 }
+)
+
+paper_div.addEventListener('click',function(){
+    console.log("clicked");
+}
+)
+
+rock_div.addEventListener('click',function(){
+    console.log("clicked");
+}
+)
