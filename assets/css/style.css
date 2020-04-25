@@ -76,7 +76,7 @@ header>h1 {
 
 .choice {
     display: inline-block;
-    border: 3px solid white;
+    border: 3px solid black;
     background:aqua;
     padding: 50px;
     border-radius: 50%;
@@ -92,8 +92,8 @@ header>h1 {
 
 .choice:hover {
     cursor: pointer;
-    background: #52fb1f;
-    border: 3px solid black;
+    background: #1f0dc3;
+    border: 3px solid red;
 }
 
 #lastMessage {
