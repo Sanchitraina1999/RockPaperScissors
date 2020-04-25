@@ -74,6 +74,10 @@ header>h1 {
     text-align: center;
 }
 
+.choices>p{
+    
+}
+
 .choice {
     display: inline-block;
     border: 3px solid black;
