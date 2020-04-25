@@ -78,7 +78,7 @@ header>h1 {
     font-size: 25px;
     font-weight: bold;
     font-family: Fredoka One, sans-serif;
-    color: greenyellow;
+    color:red;
 }
 
 .choice {
@@ -103,6 +103,7 @@ header>h1 {
     background: red;
     border: 3px solid #1eff00;
     border-radius: 50%;
+    color: greenyellow;
 }
 
 #lastMessage {
