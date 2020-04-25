@@ -19,7 +19,7 @@ paper_div.addEventListener('click',function(){
 }
 )
 
-rock_div.addEventListener('click',function(){
+scissors_div.addEventListener('click',function(){
     console.log("clicked");
 }
 )
