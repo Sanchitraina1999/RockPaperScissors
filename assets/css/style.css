@@ -92,8 +92,9 @@ header>h1 {
 
 .choice:hover {
     cursor: pointer;
-    background: #1f0dc3;
+    background: #1eff00;
     border: 3px solid red;
+    
 }
 
 #lastMessage {
