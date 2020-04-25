@@ -9,7 +9,9 @@ const rock_div = document.getElementById("rock");
 const paper_div = document.getElementById("paper");
 const scissors_div = document.getElementById("scissors");
 
-main();
+function game(button){
+
+}
 
 function main() {
   rock_div.addEventListener("click", function () {
@@ -27,3 +29,5 @@ function main() {
     game("scissors");
   });
 }
+
+main();
