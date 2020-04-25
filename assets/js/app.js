@@ -16,7 +16,7 @@ function getBotChoice(){
 }
 
 function game(userChoice){
-    const botChoice = getBotChoice();
+    var botChoice = getBotChoice();
     console.log(userChoice + ': ' + botChoice);
 }
 
