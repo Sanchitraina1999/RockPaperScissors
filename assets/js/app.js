@@ -32,12 +32,12 @@ function main() {
 
   paper_div.addEventListener("click", function () {
     // console.log("clicked paper");
-    game("'paper'");
+    game('paper');
   });
 
   scissors_div.addEventListener("click", function () {
     // console.log("clicked scissors");
-    game("scissors");
+    game('scissors');
   });
 }
 
