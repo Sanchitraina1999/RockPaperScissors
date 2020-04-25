@@ -87,7 +87,7 @@ header>h1 {
 .choice>p{
     font-size: 25px;
     font-family: Fredoka One, sans-serif;
-    color:white;
+    color:#ffffff;
 }
 
  .choice>img {
@@ -100,11 +100,11 @@ header>h1 {
 .choice:hover {
     cursor: pointer;
     background: red;
-    border: 3px solid greenyellow;
+    border: 3px solid #adff2f;
 }
 
 .choice>p:hover{
-    color: white;
+    color: #ffffff;
 }
 
 #lastMessage {
@@ -132,7 +132,7 @@ footer>p>a {
 }
 
 footer:hover {
-    background: greenyellow;
+    background: yellow;
     font-weight: bold;
     width:30%;
 }
