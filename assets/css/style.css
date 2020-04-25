@@ -9,10 +9,11 @@
 
 body {
     background: #3b3e4b;
+    text-emphasis: none;
 }
 
 header {
-    background: #3b3e4b;
+    background: greenyellow;
     padding: 20px;
 }
 
