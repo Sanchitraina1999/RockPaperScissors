@@ -86,7 +86,6 @@ header>h1 {
 
 .choice>p{
     font-size: 25px;
-    font-weight: bold;
     font-family: Fredoka One, sans-serif;
     color:rgb(59, 179, 12);
 }
@@ -100,7 +99,7 @@ header>h1 {
 
 .choice:hover {
     cursor: pointer;
-    background: rgb(223, 43, 193);
+    background: rgba(182, 182, 182, 0.185);
     border: 3px solid #1eff00;
     border-radius: 50%;
 }
