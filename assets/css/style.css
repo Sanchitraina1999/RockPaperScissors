@@ -61,12 +61,12 @@ header>h1 {
 .result {
     font-size: 40px;
     color: #ffffff;
-    /*display: none;*/
 }
 
 .result>p {
     text-align: center;
     font-weight: bold;
+    display: none;
 }
 
 .choices {
