@@ -10,8 +10,8 @@ const paper_div = document.getElementById("paper");
 const scissors_div = document.getElementById("scissors");
 
 function getBotChoice(){
-    const choices=['rock',"paper","scissors"];
-    console.log(choices[Math.random()*3]);
+    const choices=['rock','paper','scissors'];
+    console.log(choices[Math.floor(Math.random()*3)]);
 }
 
 getBotChoice();
