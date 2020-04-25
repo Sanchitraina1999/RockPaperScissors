@@ -86,13 +86,4 @@ function main() {
     game("scissors");
   });
 }
-
-function getUsername(){
-  var name = prompt("Enter username: ");
-  if(name == null){
-    getUsername)
-  }
-}
-
-getUsername();
 main();
