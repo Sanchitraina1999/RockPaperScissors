@@ -76,8 +76,8 @@ header>h1 {
 
 .choice {
     display: inline-block;
-    border: 3px solid black;
-    background:rgb(232, 233, 214);
+    border: 3px solid white;
+    background:#3b3e4b;
     padding: 50px;
     border-radius: 40%;
     margin: 30px;
