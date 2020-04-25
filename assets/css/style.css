@@ -14,6 +14,7 @@ body {
 header {
     background: #adff2f;
     padding: 20px;
+    position: fixed;
 }
 
 header>h1 {
