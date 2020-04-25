@@ -8,11 +8,11 @@
 }
 
 body {
-    background: #3b3e4b;  
+    background: #3b3e4b;
 }
 
 header {
-    background: greenyellow;
+    background: #adff2f;
     padding: 20px;
 }
 
@@ -77,20 +77,20 @@ header>h1 {
 .choice {
     display: inline-block;
     border: 3px solid #ffffff;
-    background:#000000;
+    background: #000000;
     padding: 50px;
     border-radius: 50%;
     margin: 30px;
     transition: all 0.3s ease-in;
 }
 
-.choice>p{
+.choice>p {
     font-size: 25px;
     font-family: Fredoka One, sans-serif;
-    color:#ffffff;
+    color: #ffffff;
 }
 
- .choice>img {
+.choice>img {
     width: 100px;
     height: 100px;
     border-radius: 5px;
@@ -103,7 +103,7 @@ header>h1 {
     border: 3px solid #adff2f;
 }
 
-.choice>p:hover{
+.choice>p:hover {
     color: #ffffff;
 }
 
@@ -134,7 +134,7 @@ footer>p>a {
 footer:hover {
     background: #ffff00;
     font-weight: bold;
-    width:30%;
+    width: 30%;
 }
 
 footer>p {
