@@ -74,13 +74,6 @@ header>h1 {
     text-align: center;
 }
 
-.choice>p{
-    font-size: 25px;
-    font-weight: bold;
-    font-family: Fredoka One, sans-serif;
-    color:red;
-}
-
 .choice {
     display: inline-block;
     border: 3px solid black;
@@ -89,6 +82,13 @@ header>h1 {
     border-radius: 40%;
     margin: 30px;
     transition: all 0.3s ease-in;
+}
+
+.choice>p{
+    font-size: 25px;
+    font-weight: bold;
+    font-family: Fredoka One, sans-serif;
+    color:red;
 }
 
  .choice>img {
