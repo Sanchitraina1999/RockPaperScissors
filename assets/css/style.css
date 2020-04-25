@@ -91,13 +91,6 @@ header>h1 {
     transition: all 0.3s ease-in;
 }
 
-.choice>img:hover {
-    width: 140px;
-    height: 1
-    0px;
-
-}
-
 .choice:hover {
     cursor: pointer;
     background: #1eff00;
