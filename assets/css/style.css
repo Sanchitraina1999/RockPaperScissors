@@ -115,12 +115,12 @@ footer {
 
 footer>p>a {
     text-decoration: none;
+    color: red;
 }
 
 footer:hover {
     background: greenyellow;
     font-weight: bold;
-    width: 45%;
 }
 
 footer>p {
