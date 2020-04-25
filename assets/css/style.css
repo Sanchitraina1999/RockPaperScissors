@@ -101,6 +101,9 @@ header>h1 {
     cursor: pointer;
     background: red;
     border: 3px solid greenyellow;
+}
+
+.choice>p:hover{
     color: white;
 }
 
