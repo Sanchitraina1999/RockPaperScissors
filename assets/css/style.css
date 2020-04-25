@@ -88,12 +88,13 @@ header>h1 {
     width: 100px;
     height: 100px;
     border-radius: 5px;
+    transition: all 0.3s ease-in;
 }
 
 .choice>img:hover {
     width: 100px;
-    height: 50;
-    border-radius: 5px;
+    height: 100px;
+    border-radius: 50px;
 }
 
 .choice:hover {
