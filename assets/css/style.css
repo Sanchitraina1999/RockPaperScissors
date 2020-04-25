@@ -75,7 +75,9 @@ header>h1 {
 }
 
 .choices>p{
-    
+    font-size: 40px;
+    font-weight: bold;
+    font-family: Fredoka One, sans-serif;
 }
 
 .choice {
