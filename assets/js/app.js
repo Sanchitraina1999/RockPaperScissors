@@ -39,7 +39,7 @@ function userLoses(userChoice,botChoice){
   //console.log("userLoses");
   botScore++;
   botScore_span.innerHTML = botScore;
-  result_div_p.innerHTML = botChoice + " beats " + userChoice + ". You Win !";
+  result_div_p.innerHTML = botChoice + " beats " + userChoice + ". You Lose !";
 }
 
 /* Random choice from BOT */
