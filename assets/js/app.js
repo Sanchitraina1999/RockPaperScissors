@@ -88,7 +88,10 @@ function main() {
 }
 
 function getUsername(){
-  alert("")
+  var name = prompt("Enter username: ");
+  if(name == null){
+    getUsername)
+  }
 }
 
 getUsername();
