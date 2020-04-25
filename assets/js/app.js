@@ -19,7 +19,7 @@ function game(userChoice){
     const botChoice = getBotChoice();
     //console.log(userChoice + ': ' + botChoice);
     switch(userChoice+botChoice){
-        case ''
+        //later
     }
 }
 
