@@ -87,5 +87,9 @@ function main() {
   });
 }
 
-getUsername()
+function getUsername(){
+  alert("")
+}
+
+getUsername();
 main();
