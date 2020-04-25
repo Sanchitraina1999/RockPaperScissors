@@ -78,7 +78,7 @@ header>h1 {
     display: inline-block;
     border: 3px solid black;
     background:aqua;
-    padding: 50px;
+    padding: 5px;
     border-radius: 50%;
     margin: 30px;
     transition: all 0.3s ease-in;
@@ -94,7 +94,7 @@ header>h1 {
     cursor: pointer;
     background: #1eff00;
     border: 3px solid red;
-    
+    border-radius: 50px;
 }
 
 #lastMessage {
