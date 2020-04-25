@@ -104,7 +104,8 @@ header>h1 {
     border: 3px solid #1eff00;
     border-radius: 50%;
 }
-.choice>p:hover{
+
+p:hover{
     color: greenyellow;
 }
 
