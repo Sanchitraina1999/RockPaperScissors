@@ -14,6 +14,8 @@ function getBotChoice(){
     console.log(Math.random());
 }
 
+getBotChoice();
+
 function game(userChoice){
 
 }
