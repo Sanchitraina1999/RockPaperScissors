@@ -14,10 +14,9 @@ function getBotChoice(){
     const randomIndex = Math.floor(Math.random()*3)
     console.log(choices[randomIndex]);
 }
-getBotChoice();
 
 function game(userChoice){
-
+    const botScore = getBotChoice();
 }
 
 function main() {
