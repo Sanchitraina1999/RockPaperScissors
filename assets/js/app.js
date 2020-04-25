@@ -9,8 +9,8 @@ const rock_div = document.getElementById("rock");
 const paper_div = document.getElementById("paper");
 const scissors_div = document.getElementById("scissors");
 
-function game(button){
-
+function game(userChoice){
+    console.log("pop");
 }
 
 function main() {
