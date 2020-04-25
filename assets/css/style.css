@@ -94,13 +94,13 @@ header>h1 {
     width: 100px;
     height: 100px;
     border-radius: 5px;
-    transition: all 0.3s ease-in;
+    transition: all 0.1s ease-in;
 }
 
 .choice:hover {
     cursor: pointer;
-    background: #030003;
-    border: 3px solid red;
+    background: red;
+    border: 3px solid greenyellow;
 }
 
 #lastMessage {
