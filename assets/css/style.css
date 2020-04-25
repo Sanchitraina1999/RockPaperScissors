@@ -14,8 +14,8 @@ body {
 header {
     background: #adff2f;
     padding: 20px;
-    position: fixed;
 }
+
 
 header>h1 {
     color: #3b3e4b;
