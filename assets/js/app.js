@@ -20,7 +20,7 @@ function game(userChoice){
     //console.log(userChoice + ': ' + botChoice);
     switch(userChoice+botChoice){
         default:
-        console.log(userChoice+botChoice);
+            console.log(userChoice+botChoice);
     }
 }
 
