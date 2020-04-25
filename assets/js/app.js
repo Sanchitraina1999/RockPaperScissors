@@ -25,8 +25,9 @@ function game(userChoice){
         case 'paper':{
 
         }
-        case 'scissors'
-            
+        case 'scissors':{
+
+        }
     }
 }
 
