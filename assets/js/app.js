@@ -10,7 +10,7 @@ const paper_div = document.getElementById("paper");
 const scissors_div = document.getElementById("scissors");
 
 function game(userChoice){
-    if(userChoice==)
+    console.log(userChoice);
 }
 
 function main() {
