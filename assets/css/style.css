@@ -61,7 +61,7 @@ header>h1 {
 .result {
     font-size: 40px;
     color: white;
-    /* display: none; */
+    /*display: none;*/
 }
 
 .result>p {
@@ -118,7 +118,7 @@ footer {
     border: 2px solid #f3ecec;
     margin: auto;
     width: 50%;
-    margin-top: 225px;
+    margin-top: 200px;
     padding: 10px;
     transition: all 0.3s ease-in-out;
 }
