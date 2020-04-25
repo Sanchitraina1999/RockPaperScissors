@@ -12,8 +12,9 @@ const scissors_div = document.getElementById("scissors");
 function getBotChoice(){
     const choices=['rock','paper','scissors'];
     const randomIndex = Math.floor(Math.random()*3)
-    cons choices[randomIndex];
+    console.log(choices[randomIndex]);
 }
+getBotChoice();
 
 function game(userChoice){
 
