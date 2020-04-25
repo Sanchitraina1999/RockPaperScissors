@@ -115,7 +115,7 @@ footer {
 
 footer>p>a {
     text-decoration: none;
-    color: black;
+    color: #ff0000;
 }
 
 footer:hover {
