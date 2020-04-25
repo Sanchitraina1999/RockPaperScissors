@@ -93,8 +93,8 @@ header>h1 {
 
 .choice:hover {
     cursor: pointer;
-    background: #1eff00;
-    border: 3px solid red;
+    background: red;
+    border: 3px solid #1eff00;
     border-radius: 50%;
 }
 
