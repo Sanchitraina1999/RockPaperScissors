@@ -19,19 +19,20 @@ function game(userChoice){
     const botChoice = getBotChoice();
     //console.log(userChoice + ': ' + botChoice);
     switch(userChoice){
-        
+        case 'rock':
+            
     }
 }
 
 function main() {
   rock_div.addEventListener("click", function () {
     // console.log("clicked rock");
-    game("rock");
+    game('rock');
   });
 
   paper_div.addEventListener("click", function () {
     // console.log("clicked paper");
-    game("paper");
+    game("'paper'");
   });
 
   scissors_div.addEventListener("click", function () {
