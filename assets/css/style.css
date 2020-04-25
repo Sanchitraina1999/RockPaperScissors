@@ -99,7 +99,7 @@ header>h1 {
 
 .choice:hover {
     cursor: pointer;
-    background: rgb(51, 44, 44);
+    background: rgb(3, 0, 3);
     border: 3px solid red;
     border-radius: 100%;
 }
